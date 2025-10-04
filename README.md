@@ -7,11 +7,6 @@ The goal is to practice Data Structures and Algorithms (DSA) consistently and st
 The files are named according to the question no. on Leetcode. The project is intended to serve as a record of my progress in problem-solving skills, and also as a reference for future coding interviews and technical discussions.
 
 
-# Goals
-- Solve 1 problem daily
-
-- Build a strong foundation 
-
 
 # Tech Stack
 - Language: Java 
