@@ -23,7 +23,7 @@ class Solution {
         }
         reverse(nums,i+1,n-1);
     }
-    //helper function to print array
+    //helper function to reverse the array
         public static void reverse(int nums[],int start,int end){
             while(start<end){
                 int temp=nums[start];
