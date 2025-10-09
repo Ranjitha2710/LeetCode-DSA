@@ -1,7 +1,7 @@
 
-// DATE : 03-OCT-2025
-// LEVEL : Easy
-// TOPIC : Sorting
+DATE : 03-OCT-2025
+LEVEL : Easy
+TOPIC : Sorting
 
 
 class Solution {

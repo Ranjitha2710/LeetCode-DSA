@@ -1,7 +1,7 @@
 
-// DATE : 02-OCT-2025
-// LEVEL : Easy
-// TOPIC : Boyer-Moore-Algorithm
+DATE : 02-OCT-2025
+LEVEL : Easy
+TOPIC : Boyer-Moore-Algorithm
 
 class Solution {
     public int majorityElement(int[] nums) {

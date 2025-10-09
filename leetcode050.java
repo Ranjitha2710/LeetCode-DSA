@@ -1,7 +1,7 @@
 
-// DATE : 05-OCT-2025
-// LEVEL : Medium
-// TOPIC : Bit Manipulation
+DATE : 05-OCT-2025
+LEVEL : Medium
+TOPIC : Bit Manipulation
 
 class Solution {
     public double myPow(double x, int n) {

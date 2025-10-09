@@ -1,7 +1,7 @@
 
-// DATE : 01-OCT-2025
-// LEVEL : Easy
-// TOPIC : Bit Manipulation(XOR)
+DATE : 01-OCT-2025
+LEVEL : Easy
+TOPIC : Bit Manipulation(XOR)
 
 
 class Solution {

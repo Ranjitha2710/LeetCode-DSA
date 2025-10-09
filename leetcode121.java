@@ -1,7 +1,7 @@
 
-// DATE : 04-OCT-2025
-// LEVEL : Easy
-// TOPIC : Arrays 
+DATE : 04-OCT-2025
+LEVEL : Easy
+TOPIC : Arrays 
 
 class Solution {
     public int maxProfit(int[] prices) {
