@@ -2,6 +2,9 @@
 DATE : 22-OCT-2025
 LEVEL : Medium
 TOPIC : 3-Pointer Approach 
+/*
+ Go through the Dutch National Flag alogrithm for bettter understanding.
+ */
 
 class Solution {
     public void sortColors(int[] nums) {
