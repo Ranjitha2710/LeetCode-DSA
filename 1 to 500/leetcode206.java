@@ -2,6 +2,7 @@
 DATE : 30-OCT-2025
 LEVEL : Easy
 TOPIC : Linked List
+
 class Solution {
     public ListNode reverseList(ListNode head) {
         ListNode prev=null;
