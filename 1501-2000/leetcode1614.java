@@ -1,7 +1,7 @@
 
 DATE : 29-OCT-2025
 LEVEL : Easy
-TOPIC : String
+TOPIC : String (counting approach)
 
 class Solution {
     public int maxDepth(String s) {
