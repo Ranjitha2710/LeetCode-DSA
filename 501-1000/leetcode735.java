@@ -41,3 +41,7 @@ class Solution {
     }
 }
         
+// 1.push when num is postive or stack is empty and num is negative
+// 2.pop when incoming num is -ve and top of stack is less than abs incame num
+//3.destroy when both values are equal but opp signs or top of stack is 
+greater than abs incame num
